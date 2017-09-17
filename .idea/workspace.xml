@@ -1,282 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e29c6df-9fc3-4c4c-ab4e-18561c52b86a" name="Default" comment="website intro bold closing tag">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/modules/python.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/backups/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/convert.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/explore.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/flushdb.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/json2csv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/merge.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/merge.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/process.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/pull.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/src/pull.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-F1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-L1.eps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-L1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0829-F1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0829-L1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0709-freq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0709-small.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0829-freq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0829-small.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_alt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_f.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_freq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dump.rdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/Uncertain.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/data_.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/find_root.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/helper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/inp1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other/inp2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/_.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/.RData" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/.Rhistory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/1_preprocessing.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/2_rdiff_new.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/3_postprocessing.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/all.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/allg_id_ord.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/all_no_stars.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/all_starred_race.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/allg_starred.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_02.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_03.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_04.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_05.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_06.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_07.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_08.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_09.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_10.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_02.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_03.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_04.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_05.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_06.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_07.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_08.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_09.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_10.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/section2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/pipeline.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/.Rhistory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/1_preprocessing.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/2_rdiff_new.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/3_postprocessing.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/allg_id_ord.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/frequency.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/pracg.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/pracg2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_data_mapping.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_mapping_transforms.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_operations.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/all_no_stars.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/all_starred_race.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/frequency_starred.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/practice.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/practice2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_data_mapping_star.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_mapping_transforms_star.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_operations_star.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/.Rhistory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/Rplot.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/Rplot01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/fname_freq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/lname_freq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/ncvoter100_1304.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/ncvoter100_1703.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/nmfreq.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.Rmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/pre_frequency.R" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/pipeline.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/auth/user.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/PicoModal/picoModal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/PicoModal/picoModal.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/d3js/d3.v3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/customCallback.example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/form2js.example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/jquery.example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/js2form.example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/json2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/form2js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/jquery.toObject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/js2form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/md5/md5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/build.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/survey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/output.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/practice.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/practice2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_02.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_03.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_04.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_05.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_06.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_07.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_08.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_09.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_10.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_02.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_03.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_04.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_05.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_06.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_07.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_08.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_09.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_10.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/Chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/experimentr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery.sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jspatch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/survey.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/util_c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/consent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/data_mapping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/disclosure_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/end.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/load.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/main_section_start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/manage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/post_study_questionnaire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/ppirl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/practice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/practice2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/pre_study_questionnaire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/python_main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/registration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/section2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/thanks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/training.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/trials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/upload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/website_introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/2017-06-30 15_08_48-rare_2_rect.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/3_dots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Black_Left_Arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/RL_tutorial.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/RL_tutorial_0.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Scale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Scale2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/compatibility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/example.local.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/kogmbh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/nlnet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/texture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-menuArrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-pageDown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-pageUp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-presentation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-zoomIn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-zoomOut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdf.worker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdfjsversion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/text_layer_builder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/ui_utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/viewerjs-0.5.8/AGPL-3.0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/webodf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/checkmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/diff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_5.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/indel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/infinity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/missing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/main_study.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_1.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_2.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_2a_section.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_3.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_4.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_5.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_6.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_1.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_2.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_3.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_5.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/name_swap.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/rare_2_rect.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/replace.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/right-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode1.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode2.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode3.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode4.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode5.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/slide_control.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/swap_date.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/training_frequency_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/transpose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/unique.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/up_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/redis.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/start.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_file" afterPath="" />
+    <list default="true" id="0e29c6df-9fc3-4c4c-ab4e-18561c52b86a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/result.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -299,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+              <caret line="24" column="56" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -315,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="python.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="python.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/modules/python.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
@@ -327,11 +55,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/client.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -347,6 +85,7 @@
         <option value="Python Script" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="package_json" />
       </list>
     </option>
   </component>
@@ -416,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/data/rdiff.py" />
         <option value="$PROJECT_DIR$/public/data/data_egen.csv" />
         <option value="$PROJECT_DIR$/public/data/output_.csv" />
         <option value="$PROJECT_DIR$/public/resources/rare_2_rect.svg" />
@@ -467,6 +205,7 @@
         <option value="$PROJECT_DIR$/public/modules/python_main.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/modules/python.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -795,14 +534,7 @@
       <workItem from="1505673734997" duration="411000" />
       <workItem from="1505675300889" duration="713000" />
       <workItem from="1505676035319" duration="982000" />
-      <workItem from="1505677597677" duration="5881000" />
-    </task>
-    <task id="LOCAL-00081" summary="Enabled module intros">
-      <created>1498623096145</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1498623096146</updated>
+      <workItem from="1505677597677" duration="6158000" />
     </task>
     <task id="LOCAL-00082" summary="corrected indel bug (br jr and br)">
       <created>1498687572716</created>
@@ -1140,11 +872,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502303051012</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="website initial">
+      <created>1505683518060</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1505683518061</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520421000" />
+    <option name="totallyTimeSpent" value="520698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1212,7 +951,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feedback mechanism for practice" />
     <MESSAGE value="new practice" />
     <MESSAGE value="latest version" />
     <MESSAGE value="updated order" />
@@ -1237,7 +975,8 @@
     <MESSAGE value="star for mode 5 ppt" />
     <MESSAGE value="website intro bold closing tag" />
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="website initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="website initial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1246,7 +985,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pipeline/data_output/allg_starred.csv" />
     <entry file="file://$PROJECT_DIR$/public/modules/disclosure_test.html" />
     <entry file="file://$PROJECT_DIR$/public/data/sample_01.csv" />
     <entry file="file://$PROJECT_DIR$/pipeline/2_rdiff_new.py" />
@@ -1326,7 +1064,7 @@
     <entry file="file://$PROJECT_DIR$/public/client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
@@ -1336,7 +1074,7 @@
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <caret line="24" column="56" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -1364,6 +1102,14 @@
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
