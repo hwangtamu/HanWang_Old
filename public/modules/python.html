@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Han Wang | Welcome</title>
+    <title>Han Wang | Python</title>
     <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
 </head>
 <!-- Start Top Bar -->
@@ -35,7 +35,7 @@
 
 <div class="row" id="content">
     <div class="medium-8 columns">
-        <div class="blog-post">
+        <div class="blog-post" id="hw1">
             <h3>Homework #1  <small>9/17/2017</small></h3>
             <!--<img class="thumbnail" src="http://placehold.it/850x350">-->
             <p><strong>Homework description:</strong><br>
@@ -64,7 +64,55 @@
                 </ul>
             </div>
         </div>
+        <div class="blog-post" id="lec1">
+            <h3>Lecture #1  <small>9/3/2017</small></h3>
+            <h4>1. What is Python</h4>
+            Python is a high-level programming language for general-purpose programming.<br><br>
+            Philosophy of Python:<br>
+            <pre class="prettyprint">
+    >>>import this
+    "The Zen of Python, by Tim Peters
 
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than *right* now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!"
+            </pre>
+<br>
+            <h4>2. Installation</h4>
+            Python comes with MacOS and most Linux operating systems. But you may want to install the latest version of Python on your computer.
+
+            All versions of Python can be found at <a href="https://www.python.org">python.org</a>.
+            Choose your download package according to your operating system. The future tutorials will be based on Python 3.6.<br>
+            <h4>3. How to write your first Python code</h4>
+            Once you have your Python installed, you can find the built-in IDE "IDLE" in your Python directory.
+            Open IDLE, you'll see the Python command line interface starting with <code>>>></code>
+            <pre class="prettyprint">
+>>> print('Hello, world!')
+Hello, world!
+            </pre><br>
+            <div class="callout">
+                <ul class="menu simple">
+                    <li><a href="#">Author: Han Wang</a></li>
+                    <!--<li><a href="#">Comments: 3</a></li>-->
+                </ul>
+            </div>
+        </div>
     </div>
     <div class="medium-3 columns" data-sticky-container>
         <!--<div class="sticky" data-sticky data-anchor="content">-->
@@ -111,6 +159,7 @@
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 <script>
     $(document).foundation();
+    import padding from "../css/prettify.css";
 </script>
 </body>
 </html>
