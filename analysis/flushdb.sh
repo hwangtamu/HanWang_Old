@@ -1,1 +1,0 @@
-echo "FLUSHDB" | redis-cli

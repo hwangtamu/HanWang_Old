@@ -2,14 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e29c6df-9fc3-4c4c-ab4e-18561c52b86a" name="Default" comment="website intro bold closing tag">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/modules/result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/modules/python.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/backups/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/convert.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/explore.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/flushdb.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/json2csv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/merge.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/merge.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/process.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/pull.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/src/pull.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-F1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-L1.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0709-L1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0829-F1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/0829-L1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0709-freq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0709-small.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0829-freq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/db0829-small.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_alt.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_f.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/collections/public/data_freq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dump.rdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/Uncertain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/data_.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/find_root.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/helper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/inp1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/other/inp2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/_.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/.RData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/1_preprocessing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/2_rdiff_new.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/3_postprocessing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/all.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/allg_id_ord.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_input/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/all_no_stars.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/all_starred_race.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_intermediate/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/allg_starred.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_02.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_03.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_04.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_05.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_06.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_08.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/sample_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_02.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_03.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_04.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_05.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_06.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_08.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/samples/section2_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/data_output/section2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline/pipeline.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/1_preprocessing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/2_rdiff_new.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/3_postprocessing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/allg_id_ord.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/frequency.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/pracg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/pracg2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_data_mapping.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_mapping_transforms.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_input/tutorial_operations.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/all_no_stars.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/all_starred_race.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_intermediate/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/frequency_starred.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/practice.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/practice2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_data_mapping_star.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_mapping_transforms_star.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/data_output/tutorial_operations_star.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/Rplot.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/Rplot01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/fname_freq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/lname_freq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/ncvoter100_1304.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/ncvoter100_1703.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/nmfreq.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.Rmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/post_frequency.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/frequencies/pre_frequency.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pipeline_practice/pipeline.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/auth/user.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/PicoModal/picoModal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/PicoModal/picoModal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/d3js/d3.v3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/customCallback.example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/form2js.example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/jquery.example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/js2form.example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/example/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/form2js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/jquery.toObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/form2js/src/js2form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/components/md5/md5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/build.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/survey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/practice.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/practice2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_02.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_03.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_04.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_05.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_06.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_08.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/sample_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_02.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_03.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_04.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_05.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_06.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_08.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/data/section2_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/Chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/experimentr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jquery.sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/jspatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/survey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascript/misc/util_c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/background.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/consent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/data_mapping.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/disclosure_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/end.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/instructions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/load.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/main_section_start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/manage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/post_study_questionnaire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/ppirl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/practice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/practice2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/pre_study_questionnaire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/python_main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/registration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/section2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/thanks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/training.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/trials.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/website_introduction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/2017-06-30 15_08_48-rare_2_rect.svg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/3_dots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Black_Left_Arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/RL_tutorial.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/RL_tutorial_0.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/Scale2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/compatibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/example.local.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/kogmbh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/nlnet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/texture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-fullscreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-menuArrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-pageDown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-pageUp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-presentation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-zoomIn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/images/toolbarButton-zoomOut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdf.worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/pdfjsversion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/text_layer_builder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/ui_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/viewerjs-0.5.8/AGPL-3.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/ViewerJS/webodf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/checkmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/diff.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/disclosure_mode_5.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/indel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/infinity.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/missing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/main_study.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_2.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_2a_section.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_3.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_4.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_5.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/practice_6.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_1.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_2.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_3.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/module_intros/recap_5.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/name_swap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/rare_2_rect.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/replace.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/right-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode1.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode2.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode3.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode4.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/section2_mode5.pptx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/slide_control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/swap_date.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/training_frequency_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/transpose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/unique.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/resources/up_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/redis.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/start.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_file" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascript/misc/util.js" afterPath="$PROJECT_DIR$/public/javascript/misc/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/modules/5.html" afterPath="$PROJECT_DIR$/public/modules/5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/modules/consent.html" afterPath="$PROJECT_DIR$/public/modules/consent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/modules/upload.html" afterPath="$PROJECT_DIR$/public/modules/upload.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,94 +295,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="consent.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/modules/consent.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="310" column="15" lean-forward="true" selection-start-line="310" selection-start-column="15" selection-end-line="310" selection-end-column="15" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#17;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#17;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#18;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#19;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#20;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <marker date="1502899328674" expanded="true" signature="15376:35163" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascript/misc/util.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4897">
-              <caret line="1834" column="0" lean-forward="false" selection-start-line="1834" selection-start-column="0" selection-end-line="1834" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-389">
-              <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1502898915604" expanded="true" signature="5921:6284" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="experimentr.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascript/misc/experimentr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="80" column="15" lean-forward="false" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="practice.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/practice.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="149" column="29" lean-forward="false" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="29" />
+            <state relative-caret-position="420">
+              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -124,39 +308,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thanks.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/thanks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/modules/result.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
-              <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/modules/python.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,16 +344,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>stat</find>
-      <find>read</find>
       <find>get_edit_distance</find>
       <find>click</find>
       <find>disa</find>
@@ -204,6 +380,8 @@
       <find>int</find>
       <find>save</find>
       <find>raw</find>
+      <find>fix</find>
+      <find>navbar-fixed-top</find>
     </findStrings>
     <replaceStrings>
       <replace>current_degree</replace>
@@ -235,13 +413,9 @@
       <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="master" />
     </push-targets>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/public/modules/section2.html" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/data/data_natural.csv" />
         <option value="$PROJECT_DIR$/public/data/rdiff.py" />
         <option value="$PROJECT_DIR$/public/data/data_egen.csv" />
         <option value="$PROJECT_DIR$/public/data/output_.csv" />
@@ -281,30 +455,32 @@
         <option value="$PROJECT_DIR$/public/data/section2.csv" />
         <option value="$PROJECT_DIR$/public/modules/upload.html" />
         <option value="$PROJECT_DIR$/public/modules/result.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/modules/5.html" />
         <option value="$PROJECT_DIR$/public/modules/consent.html" />
         <option value="$PROJECT_DIR$/public/javascript/misc/util.js" />
+        <option value="$PROJECT_DIR$/public/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/public/modules/test.html" />
+        <option value="$PROJECT_DIR$/views/index.md" />
+        <option value="$PROJECT_DIR$/public/client.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/public/resources/python_main.html" />
+        <option value="$PROJECT_DIR$/public/modules/python_main.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/modules/python.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -321,27 +497,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -351,11 +525,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
+              <option name="myItemId" value="HanWang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HanWang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HanWang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -367,62 +559,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="userstudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,7 +574,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/foundation-sites" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\whxjt\HanWang\public\modules\img" />
+      <recent name="C:\Users\whxjt\HanWang\public\modules" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -645,6 +791,11 @@
       <workItem from="1502211215199" duration="23947000" />
       <workItem from="1502742802902" duration="725000" />
       <workItem from="1502725616267" duration="42307000" />
+      <workItem from="1505347393140" duration="4352000" />
+      <workItem from="1505673734997" duration="411000" />
+      <workItem from="1505675300889" duration="713000" />
+      <workItem from="1505676035319" duration="982000" />
+      <workItem from="1505677597677" duration="5881000" />
     </task>
     <task id="LOCAL-00081" summary="Enabled module intros">
       <created>1498623096145</created>
@@ -993,35 +1144,35 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508082000" />
+    <option name="totallyTimeSpent" value="520421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12961012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49814913" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15882353" sideWeight="0.50185084" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15833333" sideWeight="0.49391857" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26036867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25647804" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3164706" sideWeight="0.49814913" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1607615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25647804" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26036867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1095,389 +1246,123 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/modules/4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="68" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/icons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="46" column="120" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/data_output/samples/sample_04.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/data_intermediate/all_no_stars.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/data_intermediate/all_starred_race.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/data_output/all_starred_race.csv" />
-    <entry file="file://$PROJECT_DIR$/output/_.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="67" column="68" lean-forward="true" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/j4r7899v.json" />
-    <entry file="file://$PROJECT_DIR$/public/data/practice2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/post_study_questionnaire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8382">
-          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/end.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/temp-1500586495.15660.rdb" />
-    <entry file="file://$PROJECT_DIR$/analysis/temp-1500501076.2264.rdb" />
-    <entry file="file://$PROJECT_DIR$/pipeline/1_preprocessing.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/.Rhistory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/data_output/allg_starred.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="127" column="32" lean-forward="false" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pipeline/data_output/allg_starred.csv" />
     <entry file="file://$PROJECT_DIR$/public/modules/disclosure_test.html" />
-    <entry file="file://$PROJECT_DIR$/public/data/sample_01.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipeline/2_rdiff_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1254">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="191" column="8" lean-forward="false" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/practice2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="185" column="36" lean-forward="false" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/instructions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2555">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1298">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/website_introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/data_mapping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="52" column="58" lean-forward="true" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/main_section_start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/json2csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascript/misc/util_c.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/explore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/section2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1565">
-          <caret line="72" column="105" lean-forward="false" selection-start-line="72" selection-start-column="105" selection-end-line="72" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/practice.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/section2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="99" column="57" lean-forward="false" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/data/sample_01.csv" />
+    <entry file="file://$PROJECT_DIR$/pipeline/2_rdiff_new.py" />
+    <entry file="file://$PROJECT_DIR$/public/modules/background.html" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762/datetime.py" />
+    <entry file="file://$PROJECT_DIR$/public/modules/practice2.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/instructions.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/0.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/website_introduction.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/data_mapping.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/main_section_start.html" />
+    <entry file="file://$PROJECT_DIR$/analysis/json2csv.py" />
+    <entry file="file://$PROJECT_DIR$/public/javascript/misc/util_c.js" />
+    <entry file="file://$PROJECT_DIR$/analysis/explore.py" />
+    <entry file="file://$PROJECT_DIR$/public/data/section2.csv" />
+    <entry file="file://$PROJECT_DIR$/public/data/practice.csv" />
+    <entry file="file://$PROJECT_DIR$/public/modules/section2.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="591" column="15" lean-forward="true" selection-start-line="591" selection-start-column="15" selection-end-line="591" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/upload.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/result.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1249">
           <caret line="1528" column="27" lean-forward="false" selection-start-line="1528" selection-start-column="23" selection-end-line="1528" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/thanks.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/pre_study_questionnaire.html" />
+    <entry file="file://$PROJECT_DIR$/public/modules/practice.html" />
+    <entry file="file://$PROJECT_DIR$/public/data/output.csv" />
+    <entry file="file://$PROJECT_DIR$/public/modules/5.html" />
+    <entry file="file://$PROJECT_DIR$/public/javascript/misc/util.js" />
+    <entry file="file://$PROJECT_DIR$/public/javascript/misc/experimentr.js" />
+    <entry file="file://$PROJECT_DIR$/output/j6f9zeft.json" />
+    <entry file="file://$PROJECT_DIR$/public/data/tmp.csv" />
+    <entry file="file://$PROJECT_DIR$/public/modules/consent.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/survey.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/build.css" />
+    <entry file="file://$PROJECT_DIR$/public/modules/test.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/public/package.json" />
+    <entry file="file://$PROJECT_DIR$/public/README.md" />
+    <entry file="file://$PROJECT_DIR$/public/css/app.css" />
+    <entry file="file://$PROJECT_DIR$/public/js/grayscale.js" />
+    <entry file="file://$PROJECT_DIR$/public/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/views/index.md" />
+    <entry file="file://$PROJECT_DIR$/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/thanks.html">
+    <entry file="file://$PROJECT_DIR$/public/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="286">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/pre_study_questionnaire.html">
+    <entry file="file://$PROJECT_DIR$/public/modules/python_main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="234" column="0" lean-forward="true" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/practice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="149" column="29" lean-forward="false" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="29" />
+        <state relative-caret-position="574">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/output.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502898915604" expanded="true" signature="5921:6284" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascript/misc/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4897">
-          <caret line="1834" column="0" lean-forward="false" selection-start-line="1834" selection-start-column="0" selection-end-line="1834" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascript/misc/experimentr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="80" column="15" lean-forward="false" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/j6f9zeft.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/data/tmp.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/modules/consent.html">
+    <entry file="file://$PROJECT_DIR$/public/modules/python.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="310" column="15" lean-forward="true" selection-start-line="310" selection-start-column="15" selection-end-line="310" selection-end-column="15" />
+        <state relative-caret-position="220">
+          <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#12;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#13;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#14;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#15;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#16;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#17;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#17;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#18;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#19;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#20;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <marker date="1502899328674" expanded="true" signature="15376:35163" ph="{...}" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
